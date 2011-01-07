@@ -7,16 +7,16 @@ How to use
 ----------
 
 HTML:
-    <div>
-        <div id="removeMe">
-            This text will be in place of the <em>removeMe</em> element.
-        </div>
-    </div>
+	<div>
+		<div id="removeMe">
+			This text will be in place of the <em>removeMe</em> element.
+		</div>
+	</div>
 
 JS:
-    $('removeMe').removeTag();
+	$('removeMe').removeTag();
 
 Result:
-    <div>
-        This text will be in place of the <em>removeMe</em> element.
-    </div>
+	<div>
+		This text will be in place of the <em>removeMe</em> element.
+	</div>
