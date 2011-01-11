@@ -3,6 +3,8 @@ Element.removeTag
 
 Allows you to destroy an Element while leaving its contents in place.
 
+![Screenshot](https://github.com/jaikdean/MooTools-Element.removeTag/raw/master/screenshot.png)
+
 
 How to use
 ----------
