@@ -4,7 +4,8 @@
 description: Element.removeTag method
 license:     MIT-style
 authors:     [ Jaik Dean ]
-requires:    [ core/1.3: Element ]
+requires:
+  core/1.3:  [ Element ]
 provides:    [ Element.removeTag ]
 
 ...
